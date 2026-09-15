@@ -18,11 +18,16 @@
 
 Research is the centre of this, not a side output. What that looks like in practice:
 
-- **Long-form threat research**, published rather than filed internally: ransomware economics, dark web and credential markets, attack surface exposure, supply chain compromise, executive impersonation and deepfakes, and AI-enabled attack techniques
+- **740+ intelligence reports** written and led across platforms: global and country assessments, ransomware and sector reporting, fraud intelligence, threat actor profiles and executive briefs
+- **60+ long-form threat research articles**, published rather than filed internally: ransomware economics, dark web and credential markets, attack surface exposure, supply chain compromise, executive impersonation and deepfakes, and AI-enabled attack techniques
 - **Vulnerability exploitation timelines** worked through CVSS, EPSS and KEV together, because severity alone has never told anyone what to patch first
 - **Raw feeds turned into finished intelligence**: victim records across dozens of ransomware groups and many countries normalised into quarterly datasets, with consolidated IOC sets behind them
 - **Exploitation-chain analysis** on live vulnerability classes, written up publicly alongside the detection content that came out of it
 - **Threat actor and group profiling** built on HUMINT and dark web work, not on recycled vendor reporting
+
+### 🧪 Platform And Vendor Assessment
+
+I evaluate threat intelligence platforms against the requirements they are supposed to serve: what a team actually needs collected, how sources are graded, whether findings carry confidence, and whether the output survives a sceptical read. That comes from owning the intelligence capabilities a platform roadmap had to deliver, and from mapping the vendor landscape into direct, adjacent and out-of-category tiers rather than treating every logo as a competitor.
 
 <details>
 <summary><b>🧭 How I work</b></summary>
@@ -50,9 +55,9 @@ Small tools that do one job, document it properly, and keep their legal boundari
 
 ### 💼 Background
 
-- **ThreatMon** · Cyber Threat Intelligence Team Lead. Led the team, its analyst workload, and the quality and consistency of what it produced.
-- **Leaksonar** · Head of Threat Intelligence. Owned incident, breach and fraud investigations, and the research that shaped the platform roadmap.
 - **Brandefense** · Owns the automated threat intelligence report engine, written inside the product codebase rather than specified for someone else to build.
+- **ThreatMon** · Cyber Threat Intelligence Team Lead. Led the team, its analyst workload, and the quality and consistency of what it produced.
+- **Undisclosed threat intelligence platform** · Head of Threat Intelligence and Product Owner. Owned incident, breach and fraud investigations, and the intelligence capabilities the platform roadmap had to deliver.
 - **Teaching** · Authored and delivered certified threat intelligence training used by hundreds of practitioners.
 
 ### ✍️ Selected Writing
